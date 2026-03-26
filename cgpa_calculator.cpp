@@ -44,7 +44,6 @@ struct semester
 
 int main()
 {
-    // Test the function
     cout << "Grade Point for 87 marks: " << marksToGradePoint(87) << endl;
     return 0;
 }
